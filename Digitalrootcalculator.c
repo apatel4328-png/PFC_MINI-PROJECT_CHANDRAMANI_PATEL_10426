@@ -1,4 +1,4 @@
-//Name : Chnadramani Patel
+//Name : Chandramani Patel
 //Erp : 10426
 //Project Topic : Digital Root Calculator
 //Topic Name : Reduce number
